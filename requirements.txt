@@ -1,3 +1,5 @@
 flask
 supabase
-gunicorn
+bcrypt
+pyjwt
+python-dotenv
